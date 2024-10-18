@@ -39,7 +39,7 @@ Tech Stack
 
 npm install
 
-Usage
+USAGE:
 Access the platform at https://wanderlust-1-zb3j.onrender.com/listings 
 
     Sign up or log in to start browsing or listing hotels and resorts.
